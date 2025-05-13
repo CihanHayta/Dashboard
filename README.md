@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌐 Next.js Dashboard Project
 
-## Getting Started
+A dynamic **admin panel** application built with modern web technologies for managing users and products with ease. The app fetches data via `json-server`, displays it in a user-friendly interface, and visualizes key metrics through interactive charts.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+✅ **Real-time data lists**  
+✅ **User and product management**  
+✅ **Interactive data visualization**  
+✅ **API-based data fetching**  
+✅ **Responsive and modern UI**  
+✅ **Component-based architecture for scalability**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ⚙️ Technologies Used
 
-## Learn More
+| Technology      | Description                            |
+|------------------|-----------------------------------------|
+| Next.js          | React-based framework                  |
+| React            | UI component library                   |
+| JSON Server      | Mock API service                       |
+| Chart.js / Recharts | Data visualization libraries       |
+| Tailwind CSS / MUI | Stylish and responsive UI framework  |
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+![EkranKayd2025-05-1400 20 04-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/101c9cd2-e308-45aa-93e9-873b1657f042)
